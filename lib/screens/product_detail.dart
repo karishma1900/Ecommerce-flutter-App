@@ -21,7 +21,7 @@ class ProductDetailScreen extends StatelessWidget {
               product.image,
               fit: BoxFit.cover,
               width: double.infinity,
-              height: 300,
+              height: 600,
             ),
             Padding(
               padding: const EdgeInsets.all(16.0),
