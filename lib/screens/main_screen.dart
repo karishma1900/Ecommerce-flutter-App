@@ -113,7 +113,7 @@ class ProductCard extends StatelessWidget {
                           borderRadius: BorderRadius.circular(8),
                         ),
                       ),
-                      child: const Text('View Details'),
+                      child: const Text('View Details', style: TextStyle(fontSize: 10),),
                       onPressed: () {
                         // Handle navigation to product details
                         Navigator.push(
