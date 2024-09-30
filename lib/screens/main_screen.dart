@@ -79,6 +79,7 @@ class ProductCard extends StatelessWidget {
                 product.image,
                 fit: BoxFit.fill,
                 width:double.infinity,
+                height: 800,
                
              
               ),
